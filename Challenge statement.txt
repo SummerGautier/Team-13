@@ -1,0 +1,11 @@
+Challenge: The challenge we will be taking on is to create a community for people with diabilities and connect them to social services.
+
+User: Middle age renters with family who have low ipa and lack immediate resources.
+
+Existing products or services: .gov websites, psa, and educational facilities. Assitivetech.net does something similar but seems fairly unknown and it is hard to access.
+
+Impact: Compassion- orginizations wanted to connect with people who have diabilities thru our site.
+        Empathy- Users connect with each other, sharing stories and advice.
+        Respect- Increasing equity to Respect individuals.
+
+Constraints: Accesibility to all areas of the site, language/ cultural barriers, and exposure (affiliate marketing)
